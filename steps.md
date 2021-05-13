@@ -1,5 +1,5 @@
 # react-redux-refresher
-mini react-redux boiler plate with basic implementations
+mini app react-redux for practice
 
 
 / STEP 1: FIGURE OUT THE STATE THE APP NEEDS! { quotes, quoteOfTheDay }
